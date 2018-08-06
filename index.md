@@ -1,5 +1,5 @@
 index file
-*item
+* item
 
 | Description for Platform (SIP) | Method | Production URL | Sandbox URL |
 | ------------------------------ | ------ | -------------- | ----------- |
