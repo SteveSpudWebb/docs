@@ -1,4 +1,4 @@
 
-| *Description for Platform * | *Method* | *Production URL* | *Sandbox URL* |
-| --------------------------- | -------- | ---------------- | ------------- |
-| Platform UI                 | GET      | url              | url           |
+| Description for This     | Method | Production URL | Sandbox URL |
+| ------------------------ | ------ | -------------- | ----------- |
+| Test UI .                | GET    | url            | url         |
